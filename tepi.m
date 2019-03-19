@@ -1,6 +1,6 @@
-I=imread('E:/perkuliahan/PENGOLAHAN CITRA\dedaunan.png');
-canny=edge(I,'canny');
-sobel=edge(I,'sobel');
-robert=edge(I,'robert');
-prewit=edge(I,'prewitt');
+I = imread('E:/perkuliahan/CITRA\rice.png');
+canny = edge(I,'canny');
+sobel = edge(I,'sobel');
+robert = edge(I,'roberts');
+prewit = edge(I,'prewitt');
 imshow(canny);
