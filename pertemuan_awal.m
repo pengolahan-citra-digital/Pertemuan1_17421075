@@ -1,2 +1,2 @@
-citra = imread('E:/perkuliahan/PENGOLAHAN CITRA\dedaunan.png');
+citra = imread('E:/perkuliahan/CITRA\flowers.jpg');
 imshow(citra);
