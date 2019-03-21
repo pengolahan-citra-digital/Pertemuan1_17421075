@@ -1,4 +1,4 @@
-I = imread('E:/perkuliahan/CITRA/rice.png');
+I = imread('E:/perkuliahan/CITRA/pout2.png');
 
 canny  = edge(I,'canny');
 sobel  = edge(I,'sobel');

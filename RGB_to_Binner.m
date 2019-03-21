@@ -1,3 +1,3 @@
-citra = imread('E:/perkuliahan/PENGOLAHAN CITRA\dedaunan.png');
+citra = imread('E:/perkuliahan/CITRA\peppers.png');
 bin = im2bw(citra);
 imshow(bin);
